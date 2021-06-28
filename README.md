@@ -1,2 +1,3 @@
-# Project Simple 
-## by Vitor in the site SimpleisBetterThanComplex
+#  Django Production Template
+## by Vitor  [SimpleIsBetterThanComplex](https://simpleisbetterthancomplex.com)
+
